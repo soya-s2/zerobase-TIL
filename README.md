@@ -8,7 +8,7 @@ ___
 
 ___
 ### HTML
-* 2021-08-28
+* [2021-08-28](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-08-28.md)
 ___
 ### CSS
 ___
