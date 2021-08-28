@@ -2,9 +2,9 @@
 ___
 
 ## Category
-* #### 🍑 [HTML](https://github.com/soya-s2/zerobase-TIL###HTML)
-* #### 🍋 [CSS](https://github.com/soya-s2/zerobase-TIL###CSS)
-* #### 🥝 [JavaScript](https://github.com/soya-s2/zerobase-TIL###JavaScript)
+* #### 🍑 [HTML](https://github.com/soya-s2/zerobase-TIL#-html)
+* #### 🍋 [CSS](https://github.com/soya-s2/zerobase-TIL#-css)
+* #### 🥝 [JavaScript](https://github.com/soya-s2/zerobase-TIL#-javascript)
 
 ___
 ### HTML
