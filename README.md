@@ -2,13 +2,14 @@
 ___
 
 ### Category
-* #### 🍑 [HTML](https://github.com/soya-s2/zerobase-TIL#-html)
-* #### 🍋 [CSS](https://github.com/soya-s2/zerobase-TIL#-css)
-* #### 🥝 [JavaScript](https://github.com/soya-s2/zerobase-TIL#-javascript)
+* #### 🍑 [HTML](#html)
+* #### 🍋 [CSS](#css)
+* #### 🥝 [JavaScript](#javascript)
 
 ___
 #### HTML
 * [2021-08-28](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-08-28.md)
+* [2021-08-29](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-08-29.md)
 ___
 #### CSS
 ___
