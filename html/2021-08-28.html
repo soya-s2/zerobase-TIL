@@ -1,0 +1,30 @@
+<!-- Special Character Identification -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>2021-08-28</title>
+  <style>
+    input {font-size: 2em; padding: 10px;}
+    p {font-size: 1.5em;}
+  </style>
+</head>
+<body>
+  <input type="text">
+  <p style="display:none; color:red">특수문자를 입력할 수 없습니다. </p>
+  <script>
+    const input = document.querySelector('input');
+    const p = document.querySelector('p');
+
+    window.onload = function () {
+      input.addEventListener('input', confirm);
+    }
+
+    var confirm = function(e) {
+      var value = e.target.value;
+      var RegExp = /[~!@#$%^&*()_+|<>?:{}]/; 
+      RegExp.test(value) ? (p.style.display = 'block') : (p.style.display = 'none');
+    }
+  </script>
+</body>
+</html>
