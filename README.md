@@ -5,9 +5,9 @@
 
 ## 🧷 Category
 
-- ### 🎬 [HTML](#html)
-- ### 🎹 [CSS](#css)
-- ### 🎮 [JavaScript](#javascript)
+- ### 🎬 [HTML](#-html-1)
+- ### 🎹 [CSS](#-css-1)
+- ### 🎮 [JavaScript](#-javascript-1)
 
 <br/>
 <br/>
