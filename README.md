@@ -19,6 +19,7 @@
 🖤 [2021-08-30 / HTML이란?](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-08-30-HTML이란.md)  
 🖤 [2021-08-30 / 메타데이터 요소](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-08-30-메타데이터-요소.md)  
 🖤 [2021-08-31 / 텍스트 요소](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-08-31-텍스트-요소.md)
+🖤 [2021-09-01 / 구조를 나타내는 요소](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-09-01-구조를-나타내는-요소.md)
 
 <br/>
 <br/>
