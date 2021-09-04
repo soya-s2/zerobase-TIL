@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>실습</title>
+  <style>
+    * {
+      text-align: center;
+      padding: 10px;
+    }
+    table {
+      border-collapse: collapse;
+    }
+    th, tfoot td {
+      border: 2px solid grey;
+    }
+    td {
+      border: 1px dotted green;
+    }
+    caption {
+      margin-bottom: 30px;
+      font-weight: 700;
+    }
+  </style>
+</head>
+<body>
+  <table>
+    <caption>학생들의 성적</caption>
+    <thead>
+      <th>이름</th>
+      <th>과목</th>
+      <th>학점</th>
+      <th>평균 평점</th>
+    </thead>
+    <tbody>
+      <tr>
+        <td>김제로</td>
+        <td>전산개론</td>
+        <td>A+</td>
+        <td class="avgScore">3.2</td>
+      </tr>
+      <tr>
+        <td>김 &nbsp; 원</td>
+        <td>컴퓨터프로그래밍</td>
+        <td>B+</td>
+        <td class="avgScore">3.86</td>
+      </tr>
+      <tr>
+        <td>김 &nbsp; 투</td>
+        <td>소프트웨어공학</td>
+        <td>A+</td>
+        <td class="avgScore">4.42</td>
+      </tr>
+      <tr>
+        <td>김뜨리</td>
+        <td>자바프로그래밍</td>
+        <td>C</td>
+        <td class="avgScore">2.5</td>
+      </tr>
+    </tbody>
+    <tfoot>
+      <tr>
+        <td>학생들의 총 평점 평균</td>
+        <td class="avgAll" colspan="3"></td>
+      </tr>
+    </tfoot>
+  </table>
+<script>
+  const td = document.querySelectorAll(".avgScore");
+  const avgAll = document.querySelector(".avgAll");
+  let sum = 0;
+
+  for (let i=0; i<td.length; i++) {
+    sum = sum + parseFloat(td[i].textContent);
+  }
+  avgAll.innerText = sum / td.length;
+</script>
+</body>
+</html>
