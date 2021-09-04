@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>실습</title>
+  <style>
+    /* 매우 간단한 CSS만 적용 */
+    form {
+      position: relative;
+      width: 600px;
+      height: 500px;
+      margin: 0;
+    }
+
+    .formContainer {
+    position: absolute;
+    text-align: center;
+    }
+
+    .label {
+      float: left;
+      line-height: 2em;
+    }
+
+    .form {
+      display: inline-block;
+      margin: 0;
+    }
+
+    input, select {
+      margin: 0.5em;
+    }
+
+    .email {
+      margin-bottom: 2em;
+    }
+
+    .btn {
+      background-color: black;
+      color: white;
+      border-radius: 30px;
+      border: none;
+      padding: 5px 20px;
+      font-size: 1em;
+    }
+  </style>
+</head>
+<body>
+  <form>
+    <div class="formContainer">
+      <div class="label">
+        이름* <br/> 나이* <br/> 성별* <br/> 학년 <br/> 이메일 <br/>
+      </div>
+      <div class="form">
+        <input type="text" required> <br/>
+        <input type="number" required> <br/>
+        <input type="radio" name="sex" required>남 
+        <input type="radio" name="sex" required>여 <br/>
+        <select> 
+          <optgroup label="예외">
+            <option name="state" value="leave">휴학</option>
+            <option name="state" value="drop">자퇴</option>  
+          </optgroup>
+          <optgroup label="학년">
+            <option name="grade" value="1">&nbsp; 1</option>
+            <option name="grade" value="2">&nbsp; 2</option>
+            <option name="grade" value="3" selected>&nbsp; 3</option>
+            <option name="grade" value="4">&nbsp; 4</option>
+          </optgroup>
+        </select>
+        <br/>
+        <input type="email" name="email" class="email" placeholder="aaa@bbb.ccc">
+        <br/>
+      </div>
+      <div class="SubmitOrReset">
+        <input type="submit" class="btn" value="다음으로">
+        <input type="reset" class="btn" value="취소"> 
+      </div>
+    </div>
+  </form>
+</body>
+</html>
