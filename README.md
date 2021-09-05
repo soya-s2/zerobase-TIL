@@ -24,6 +24,7 @@
 🖤 [2021-09-02 / 임베디드 요소](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-09-02-임베디드-요소.md)  
 🖤 [2021-09-03 / 폼 관련 요소](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-09-03-폼-관련-요소.md)  
 🖤 [2021-09-04 / 전역 속성](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-09-04-전역-속성.md)  
+🖤 [2021-09-05 / HTML 연습문제](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-09-05-HTMP-연습문제.md)  
 <br/>
 <br/>
 
