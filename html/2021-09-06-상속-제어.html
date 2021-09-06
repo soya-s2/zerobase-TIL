@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>실습</title>
+  <style>
+    div {
+      border: 1px dotted grey;
+      padding: 5px;
+    }
+    .parent {
+      color: red;
+    }
+  </style>
+</head>
+<body>
+  <div class="parent">
+    parent
+    <div class="child-1">child-1</div>
+    <div class="child-2">child-2</div>
+    <!-- parent 클래스에만 red color를 적용했지만,
+    모든 child class에도 red가 적용되었다.
+    이는 스타일의 상속 때문이다.-->
+  </div>
+</body>
+</html>

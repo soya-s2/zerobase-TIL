@@ -25,12 +25,15 @@
 🖤 [2021-09-03 / 폼 관련 요소](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-09-03-폼-관련-요소.md)  
 🖤 [2021-09-04 / 전역 속성](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-09-04-전역-속성.md)  
 🖤 [2021-09-05 / HTML 연습문제](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-09-05-HTML-연습문제.md)  
-💙 **[2021-09-06 / HTML 스타일 가이드](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-09-06-HTML-스타일-가이드.md)**  
+💙 **[2021-09-06 / HTML 스타일 가이드](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-09-06-HTML-스타일-가이드.md)**
+
 <br/>
 <br/>
 
 ### 🎹 CSS
 
+🖤 [2021-09-06 / CSS 개요](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-09-06-CSS-개요.md)  
+🖤 [2021-09-06 / 선택자](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-09-06-선택자.md)  
 <br/>
 <br/>
 
