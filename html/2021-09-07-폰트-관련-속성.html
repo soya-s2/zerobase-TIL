@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>실습</title>
+  <style>
+    .ko {
+      font: 700 2em/2 Arial, sans-serif;
+      letter-spacing: .5em;
+      text-indent: 10%;
+      text-decoration: rosybrown dotted overline 3px;
+    }
+
+    p {
+      word-spacing: 2em;
+      text-align: center;
+    }
+
+    span {
+      text-indent: 10%;
+      text-align: right;
+      /* span은 inline 요소이므로 적용되지 않는다. */
+    }
+
+    .en {
+      width: 35%;
+      word-break: break-all; /* 너비에 맞게 자동으로 개행된다. */
+      /* word-break: keep-all; */
+      text-transform: capitalize;
+    }
+
+  </style>
+</head>
+<body>
+  <h1 class="ko">안녕하세요! <br> soya's TIL입니다!</h1>
+  <p>주소는 github.com/soya-s2입니다.</p>
+  <span>✔ 오늘은 9월 7일입니다.</span>
+  <h1 class="en">Hi! Here is soya's TIL repository! Address is github.com/soya-s2. Today is 07-09.</h1>
+</body>
+</html>
