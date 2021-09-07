@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>실습</title>
+  <style>
+    .parent {
+      background-color: rgb(253, 242, 228);
+      font-size: 48px;
+      height: 50vh;
+ 
+    }
+    .child {
+      background-color: rgb(252, 216, 173);
+      font-size: 0.5em; /* 부모인 parent의 절반 크기인 24px */
+    }
+    .child-child {
+      background-color: rgb(238, 185, 106);
+      font-size: 1rem; /* 브라우저의 기본 크기인 16px */
+      height: max(6vh, 10%); /* 더 큰 6vh가 적용됨을 개발자 도구에서 확인하였음 */
+    }
+    .child-sibling {
+      background-color: rgb(145, 109, 56);
+      height: 40%; /* 부모 요소인 .parent 클래스 요소의 40% */
+      width: 50vw;
+    }
+  </style>
+</head>
+<body>
+  <div class="parent"> 
+    안녕하세요!
+    <p class="child">
+      soya-s2 깃허브입니다.
+      <p class="child-child">반갑습니다.</p>
+    </p>
+    <p class="child-sibling">
+      이 곳에 종종 들러주세요!
+    </p>
+  </div>
+</body>
+</html>
