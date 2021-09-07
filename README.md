@@ -34,6 +34,7 @@
 
 🖤 [2021-09-06 / CSS 개요](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-09-06-CSS-개요.md)  
 🖤 [2021-09-06 / 선택자](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-09-06-선택자.md)  
+🖤 [2021-09-07 / 폰트 관련 속성](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-09-07-폰트-관련-속성.md)  
 <br/>
 <br/>
 
