@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>실습</title>
+  <style>
+    body {
+      margin: 0;
+    }
+    .parent {
+      background-color: rgb(251, 255, 219);
+      border: 3px solid rgb(97, 99, 81);
+      width: 300px;
+      height: 300px;
+    }
+    .child-1 {
+      background-color: rgb(254, 255, 176);
+      border: 3px dashed rosybrown;
+      padding: 15px 10px; /* 15px 10px 15px 10px */
+    }
+    .child-2 {
+      background-color: rgb(250, 241, 118);
+      border: thick dotted rgb(255, 252, 227);
+      padding: 5px 20px 3px; /* 5px 20px 3px 20px */
+      width: 30%;
+      height: 30%;
+    }
+    .child-3 {
+      /* 인라인 요소는 width, height가 적용되지 않는다. */
+      background-color: rgb(255, 202, 89);
+      padding: 5%; /* 부모 요소인 parent 너비의 5% */
+      width: 50%;
+      height: 50%;
+    }
+  </style>
+</head>
+<body>
+  <div class="parent">
+    <p class="child-1">Child1</p>
+    <p class="child-2">Child2</p>
+    <span class="child-3">Child3</span>
+  </div>
+</body>
+</html>
