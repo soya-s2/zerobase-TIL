@@ -36,6 +36,7 @@
 🖤 [2021-09-06 / 선택자](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-09-06-선택자.md)  
 🖤 [2021-09-07 / 폰트 관련 속성](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-09-07-폰트-관련-속성.md)  
 🖤 [2021-09-07 / 단위와 값](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-09-07-단위와-값.md)  
+🖤 [2021-09-08 / 박스 모델](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-09-08-박스-모델.md)  
 <br/>
 <br/>
 
