@@ -32,14 +32,14 @@
 
 ### 🎹 CSS
 
-🖤 [2021-09-06 / CSS 개요](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-09-06-CSS-개요.md)  
-🖤 [2021-09-06 / 선택자](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-09-06-선택자.md)  
-🖤 [2021-09-07 / 폰트 관련 속성](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-09-07-폰트-관련-속성.md)  
-🖤 [2021-09-07 / 단위와 값](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-09-07-단위와-값.md)  
-🖤 [2021-09-08 / 박스 모델](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-09-08-박스-모델.md)  
-💙 **[2021-09-09 / 레이아웃](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-09-09-레이아웃.md)**  
-🖤 [2021-09-09 / 색상과 배경](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-09-09-색상과-배경.md)  
-💙 **[2021-09-10 / transform](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-09-10-transform.md)**  
+🖤 [2021-09-06 / CSS 개요](https://github.com/soya-s2/zerobase-TIL/blob/master/css/2021-09-06-CSS-개요.md)  
+🖤 [2021-09-06 / 선택자](https://github.com/soya-s2/zerobase-TIL/blob/master/css/2021-09-06-선택자.md)  
+🖤 [2021-09-07 / 폰트 관련 속성](https://github.com/soya-s2/zerobase-TIL/blob/master/css/2021-09-07-폰트-관련-속성.md)  
+🖤 [2021-09-07 / 단위와 값](https://github.com/soya-s2/zerobase-TIL/blob/master/css/2021-09-07-단위와-값.md)  
+🖤 [2021-09-08 / 박스 모델](https://github.com/soya-s2/zerobase-TIL/blob/master/css/2021-09-08-박스-모델.md)  
+💙 **[2021-09-09 / 레이아웃](https://github.com/soya-s2/zerobase-TIL/blob/master/css/2021-09-09-레이아웃.md)**  
+🖤 [2021-09-09 / 색상과 배경](https://github.com/soya-s2/zerobase-TIL/blob/master/css/2021-09-09-색상과-배경.md)  
+💙 **[2021-09-10 / transform](https://github.com/soya-s2/zerobase-TIL/blob/master/css/2021-09-10-transform.md)**  
 <br/>
 <br/>
 
