@@ -40,6 +40,8 @@
 💙 **[2021-09-09 / 레이아웃](https://github.com/soya-s2/zerobase-TIL/blob/master/css/2021-09-09-레이아웃.md)**  
 🖤 [2021-09-09 / 색상과 배경](https://github.com/soya-s2/zerobase-TIL/blob/master/css/2021-09-09-색상과-배경.md)  
 💙 **[2021-09-10 / transform](https://github.com/soya-s2/zerobase-TIL/blob/master/css/2021-09-10-transform.md)**  
+🖤 [2021-09-10 / transition](https://github.com/soya-s2/zerobase-TIL/blob/master/css/2021-09-10-transition.md)  
+🖤 [2021-09-10 / animation](https://github.com/soya-s2/zerobase-TIL/blob/master/css/2021-09-10-animation.md)  
 <br/>
 <br/>
 
