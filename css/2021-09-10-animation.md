@@ -76,10 +76,7 @@ _기본값은 1이다!_
 
 <br/>
 
-**`animation-direction`** 은 애니메이션의 방향을 지정할 수 있다!
-
-<br/>
-
+**`animation-direction`** 은 애니메이션의 방향을 지정할 수 있다!  
 `transition`에서는, 만약 크기가 늘어나는 애니메이션을 hover에 지정했다고 하면  
 hover에서 벗어났을 때는 애니메이션이 적용되지 않는 단점이 있었는데,  
 이를 **`alternative`** 키워드로 돌아올 때도 적용되도록 지정할 수 있다는 점!  
@@ -107,9 +104,9 @@ _기본값은 running!_
 
 <br/>
 
-**`none`** : 애니메이션이 실행되지 않을 때, keyframes에 있는 스타일을 적용하지 않는다.  
+**`none`** : 애니메이션이 실행되지 않을 때, keyframes에 지정된 스타일을 적용하지 않는다.  
 **`forwards`** : 끝난 모습의 keyframes를 유지한다.  
-**`backwards`** :  
+**`backwards`** : 시작할 때 기존 스타일을 적용하지 않는다.
 **`both`** : `forwards`와 `backwards`를 둘 다 적용한다.  
 _기본값은 none!_
 
@@ -129,9 +126,12 @@ _기본값은 none!_
 
 <br/>
 
-**`none`** 은 1~5번,  
-**`forwards`** 는 1~4번, **`backwords`** 는 2~5번,  
-**`both`** 는 2~4번의 과정을 거친다!  
+**`none`** 은 1번 ~ 5번,  
+**`forwards`** 는 1번 ~ 4번, **`backwords`** 는 2번 ~ 5번,  
+**`both`** 는 2번 ~ 4번의 과정을 거친다!
+
+<br/>
+
 속성값 자체의 설명으로는 이해가 잘 안갔지만,  
 예제를 보면서 이해하니 재밌었다.  
 오늘 배운 내용 중에서 가장 흥미로운 부분이었다. 🖐🖐🖐
@@ -142,13 +142,14 @@ _기본값은 none!_
 
 ### 🍇 animation (shorthand)
 
-**shorthand 속성은 값을 지정하지 않는 속성에 대해서 initial 값을 지정한다는 것 잊지 말기!**
+**shorthand 속성은 값을 지정하지 않는 속성에 대해서**  
+**initial 값을 지정한다는 것 잊지 말기!**
 
 <br/>
 
 `transition`과 마찬가지로, `<time>` 자료형 값이 두 개라면  
-앞의 시간을 `animation-duration`, 뒤의 시간을 `animation-delay`로 인식한다!  
-보통 `duration`, `timing-function`, `delay`, ... , `name` 순서로 쓴다.
+**앞의 시간을 `animation-duration`, 뒤의 시간을 `animation-delay`로 인식한다!**  
+_보통 `duration`, `timing-function`, `delay`, ... , `name` 순서로 쓴다._
 
 <br/>
 <br/>

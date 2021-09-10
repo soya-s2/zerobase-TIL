@@ -18,7 +18,10 @@
 ### 🌳 transition-property, transition-duration
 
 **`transition-property`** 는 `transition`이 적용될 특정 요소를 지정한다.  
-`,`로 여러 속성을 지정 가능하다!  
+`,`로 여러 속성을 지정 가능하다!
+
+<br/>
+
 **`transition-duration`** 은 그 과정을 보여줄 시간을 지정한다.  
 _이 속성을 지정했지만 `transition-property`에서 제외됐다면,_  
 _transition 효과 없이 즉각 적용된다._  
@@ -30,8 +33,8 @@ _transition 효과 없이 즉각 적용된다._
 
 ### 🌲 transition-delay, transition-timing-function
 
-**`transition-delay`**는 지연 시간이고,  
-**`transition-timing-function`**은 transition 지정 함수이다.  
+**`transition-delay`** 는 지연 시간이고,  
+**`transition-timing-function`** 은 transition 지정 함수이다.  
 `transition-timing-function`은 중간 과정에 대한 시간 조절이라고 볼 수 있다.
 
 <br/>
@@ -52,7 +55,7 @@ _transition 효과 없이 즉각 적용된다._
 
 <br/>
 
-기본값은 다음과 같다.  
+_기본값은 다음과 같다._  
 `transition-delay` : 0s  
 `transition-duration` : 0s  
 `transition-property` : all  
