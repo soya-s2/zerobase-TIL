@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>실습</title>
+  <style>
+    body {
+      height: 2000px;
+      font-size: 24px;
+      text-align: center;
+    }
+    .relative {
+      background-color: rgb(215, 234, 255);
+      position: relative;
+      padding: 10px;
+      width: 200px;
+      height: 200px;
+    }
+    .absolute {
+      background-color: rgb(155, 202, 255);
+      position: absolute;
+      height: 5%; /* 초기 컨테이닝 블록은 뷰포트임 */
+      top: 50px;
+      left: 40px;
+    }
+    .fixed {
+      background-color: rgb(106, 174, 252);
+      position: fixed;
+      width: 100px;
+      height: 100px;
+      top: 10%;
+      right: 10%;
+    }
+    .sticky {
+      background-color: rgb(58, 135, 223);
+      position: sticky;
+      width: 200px;
+      height: 200px;
+      top: 20%;
+      left: 50%;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="relative">relative</div>
+    <div class="absolute">absolute</div>
+    <div class="fixed">fixed</div>
+  </div>
+  <div class="sticky">sticky</div>
+</body>
+</html>

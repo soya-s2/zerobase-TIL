@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>실습</title>
+  <style>
+    .container {
+      height: 400px;
+    }
+    .block {
+      background-color: rgb(198, 252, 234);
+    }
+    .inline {
+      background-color: rgb(58, 218, 164);
+      margin-top: 2em; /* 적용되지 않는다. */
+      padding-bottom: 1.5em; /* 적용되지 않아 밀려나지 않는다. */
+      /* https://medium.com/@DaphneWatson/
+      css-display-properties-block-inline-and-inline-block
+      -how-to-tell-the-difference-7d3a1e6e3051 */
+    }
+    .inline-block {
+      background-color: rgb(25, 150, 108);
+    }
+    .block:first-of-type {
+      background-color: rgb(164, 202, 189);
+      width: 40%;
+      height: 20%;
+      /* 가장 가까운 조상 블록 요소를 컨테이닝 블록으로 삼는다. */
+      /* 그 위치에서 상대적인 비율을 백분율로 계산한다. */
+      /* https://developer.mozilla.org/ko/docs/Web/CSS/Containing_block */
+    }
+    .none {
+      display: none;
+    }
+    .hidden {
+      visibility: hidden;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="block">div (block1)</div>
+    <span class="inline">span (inline1)</span>
+    <input type="text" class="inline-block" value="input (inline-block1)">
+    <div class="block">div (block2)</div>
+    <input type="text" class="inline-block" value="input (inline-block2)">
+    <input type="text" class="inline-block" value="input (inline-block3)">
+    <span class="inline">span (inline2)</span>
+    <div class="block">div (block3)</div>
+    <div class="none">display: none</div>
+    <div class="hidden">visibility: hidden</div>
+  </div>
+</body>
+</html>
