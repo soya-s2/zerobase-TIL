@@ -43,6 +43,7 @@
 🖤 [2021-09-10 / transition](https://github.com/soya-s2/zerobase-TIL/blob/master/css/2021-09-10-transition.md)  
 🖤 [2021-09-10 / animation](https://github.com/soya-s2/zerobase-TIL/blob/master/css/2021-09-10-animation.md)  
 💛 **[2021-09-11 / HTML/CSS 연습문제](https://github.com/soya-s2/zerobase-TIL/blob/master/css/2021-09-11-HTML-CSS-연습문제.md)**  
+🖤 [2021-09-13 / flexbox](https://github.com/soya-s2/zerobase-TIL/blob/master/css/2021-09-13-flexbox.md)  
 <br/>
 <br/>
 
