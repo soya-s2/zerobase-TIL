@@ -48,6 +48,6 @@
 
 ### 🎮 JavaScript
 
-🖤 **[2021-09-12 / 코딩테스트 연습](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-00-00-코딩테스트-연습.md)**  
+🖤 **[2021-09-12 / 코딩테스트 연습](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-09-12-코딩테스트-연습.md)**  
 <br/>
 <br/>
