@@ -42,7 +42,7 @@
 🖤 [2021-09-10 / transition](https://github.com/soya-s2/zerobase-TIL/blob/master/css/2021-09-10-transition.md)  
 🖤 [2021-09-10 / animation](https://github.com/soya-s2/zerobase-TIL/blob/master/css/2021-09-10-animation.md)  
 🖤 [2021-09-13 / flexbox](https://github.com/soya-s2/zerobase-TIL/blob/master/css/2021-09-13-flexbox.md)  
-🖤 [2021-09-14 / grid](https://github.com/soya-s2/zerobase-TIL/blob/master/css/2021-09-13-grid.md)  
+🖤 [2021-09-14 / grid](https://github.com/soya-s2/zerobase-TIL/blob/master/css/2021-09-14-grid.md)  
 <br/>
 <br/>
 
