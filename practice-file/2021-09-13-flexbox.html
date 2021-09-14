@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>실습</title>
+  <style>
+    .container {
+      border: 5px dotted grey;
+      height: 400px;
+      display: flex;
+      margin: 10px;
+    }
+    .container div {
+      width: 80px;
+      height: 80px;
+      font-size: 2em;
+      font-weight: bold;
+      text-align: center;
+    }
+    .one {
+      flex-wrap: nowrap;
+
+    }
+    .one div {
+      background-color: rgb(255, 215, 215);
+      border: 1px solid black;
+      flex: 1;
+    }
+    .two {
+      flex-flow: row-reverse wrap;
+      justify-content: flex-end;
+      align-items: center;
+    }
+    .two div {
+      background-color: rgb(248, 168, 168);
+      border: 1px solid black;
+      flex-shrink: 0;
+    }
+    .three {
+      flex-wrap: wrap;
+      justify-content: flex-end;
+      align-items: center;
+    }
+    .three div {
+      background-color: rgb(250, 121, 121);
+      border: 1px solid black;
+    }
+    .three .item-3 {
+      height: auto;
+      align-self: stretch;
+    }
+    .three .item-4 {
+      align-self: baseline;
+    }
+    .three .item-5 {
+      align-self: flex-end;
+    }
+  </style>
+</head>
+<body>
+  <div class="container one">
+    <div class="item-1">1</div>
+    <div class="item-2">2</div>
+    <div class="item-3">3</div>
+    <div class="item-4">4</div>
+    <div class="item-5">5</div>
+  </div>
+  <div class="container two">
+    <div class="item-1">1</div>
+    <div class="item-2">2</div>
+    <div class="item-3">3</div>
+    <div class="item-4">4</div>
+    <div class="item-5">5</div>
+  </div>
+  <div class="container three">
+    <div class="item-1">1</div>
+    <div class="item-2">2</div>
+    <div class="item-3">3</div>
+    <div class="item-4">4</div>
+    <div class="item-5">5</div>
+  </div>
+</body>
+</html>
