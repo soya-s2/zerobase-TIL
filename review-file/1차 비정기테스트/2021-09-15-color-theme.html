@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>실습</title>
+  <style>
+    div {
+      display: inline;
+      border: 3px solid black;
+      font-size: 2em;
+    }
+    @media (prefers-color-scheme: light) {
+      .light {background: white; color: #000;}
+    }
+    @media (prefers-color-scheme: dark) {
+      .dark {background: #333; color: white;}
+    }
+  </style>
+</head>
+<body>
+  <div class="light">이것은 라이트 모드!</div>
+  <div class="dark">이것은 다크 모드!</div>
+</body>
+</html>
