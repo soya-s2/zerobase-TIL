@@ -8,6 +8,7 @@
 - ### 🎬 [HTML](#-html-1)
 - ### 🎹 [CSS](#-css-1)
 - ### 🎮 [JavaScript](#-javascript-1)
+- ### 🎓 [React](#-react-1)
 - ### 👀 [Review](#-review-1)
 
 <br/>
@@ -47,6 +48,11 @@
 <br/>
 
 ### 🎮 JavaScript
+
+<br/>
+<br/>
+
+### 🎓 React
 
 <br/>
 <br/>
