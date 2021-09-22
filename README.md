@@ -57,6 +57,7 @@
 🖤 [2021-09-19 / 리액트 시작](https://github.com/soya-s2/zerobase-TIL/blob/master/react/2021-09-19-리액트-시작.md)  
 🖤 [2021-09-20 / JSX](https://github.com/soya-s2/zerobase-TIL/blob/master/react/2021-09-20-JSX.md)  
 🖤 [2021-09-21 / 컴포넌트와 props](https://github.com/soya-s2/zerobase-TIL/blob/master/react/2021-09-21-컴포넌트와-props.md)  
+🖤 [2021-09-22 / state](https://github.com/soya-s2/zerobase-TIL/blob/master/react/2021-09-22-state.md)  
 <br/>
 <br/>
 
