@@ -58,6 +58,7 @@
 🖤 [2021-09-20 / JSX](https://github.com/soya-s2/zerobase-TIL/blob/master/react/2021-09-20-JSX.md)  
 🖤 [2021-09-21 / 컴포넌트와 props](https://github.com/soya-s2/zerobase-TIL/blob/master/react/2021-09-21-컴포넌트와-props.md)  
 🖤 [2021-09-22 / state](https://github.com/soya-s2/zerobase-TIL/blob/master/react/2021-09-22-state.md)  
+💙 **[2021-09-23 / 이벤트 핸들링](https://github.com/soya-s2/zerobase-TIL/blob/master/react/2021-09-23-이벤트-핸들링.md)**  
 <br/>
 <br/>
 
