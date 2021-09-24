@@ -25,7 +25,8 @@
 🖤 [2021-09-02 / 목록과 표](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-09-02-목록과-표.md)  
 🖤 [2021-09-02 / 임베디드 요소](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-09-02-임베디드-요소.md)  
 🖤 [2021-09-03 / 폼 관련 요소](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-09-03-폼-관련-요소.md)  
-🖤 [2021-09-04 / 전역 속성](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-09-04-전역-속성.md)
+🖤 [2021-09-04 / 전역 속성](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-09-04-전역-속성.md)  
+🖤 [2021-09-24 / 미션 2 (미완성)](https://github.com/soya-s2/zerobase-TIL/blob/master/html/2021-09-24-미션-2.md)
 
 <br/>
 <br/>
