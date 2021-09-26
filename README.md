@@ -44,13 +44,16 @@
 🖤 [2021-09-10 / transition](https://github.com/soya-s2/zerobase-TIL/blob/master/css/2021-09-10-transition.md)  
 🖤 [2021-09-10 / animation](https://github.com/soya-s2/zerobase-TIL/blob/master/css/2021-09-10-animation.md)  
 🖤 [2021-09-13 / flexbox](https://github.com/soya-s2/zerobase-TIL/blob/master/css/2021-09-13-flexbox.md)  
-🖤 [2021-09-14 / grid](https://github.com/soya-s2/zerobase-TIL/blob/master/css/2021-09-14-grid.md)  
+🖤 [2021-09-14 / grid](https://github.com/soya-s2/zerobase-TIL/blob/master/css/2021-09-14-grid.md)
+
 <br/>
 <br/>
 
 ### 🎮 JavaScript
 
-🖤 [2021-09-25 / 자바스크립트 기본](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-09-25-자바스크립트-기본.md)
+🖤 [2021-09-25 / 자바스크립트 기본](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-09-25-자바스크립트-기본.md)  
+🖤 [2021-09-26 / 자바스크립트 문법 1부](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-09-26-자바스크립트-문법-1부.md)
+
 <br/>
 <br/>
 
@@ -60,7 +63,8 @@
 🖤 [2021-09-20 / JSX](https://github.com/soya-s2/zerobase-TIL/blob/master/react/2021-09-20-JSX.md)  
 🖤 [2021-09-21 / 컴포넌트와 props](https://github.com/soya-s2/zerobase-TIL/blob/master/react/2021-09-21-컴포넌트와-props.md)  
 🖤 [2021-09-22 / state](https://github.com/soya-s2/zerobase-TIL/blob/master/react/2021-09-22-state.md)  
-💙 **[2021-09-23 / 이벤트 핸들링](https://github.com/soya-s2/zerobase-TIL/blob/master/react/2021-09-23-이벤트-핸들링.md)**  
+💙 **[2021-09-23 / 이벤트 핸들링](https://github.com/soya-s2/zerobase-TIL/blob/master/react/2021-09-23-이벤트-핸들링.md)**
+
 <br/>
 <br/>
 
