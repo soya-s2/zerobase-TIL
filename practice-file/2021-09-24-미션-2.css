@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Lato&family=Open+Sans:wght@500&family=Poppins&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Open+Sans:wght@500&family=Poppins&display=swap"); /* normal */
 
 /* Set media query */
 /* https://gist.github.com/gokulkrishh/242e68d1ee94ad05f488 */
@@ -7,9 +7,14 @@
   ##Device = Desktops
   ##Screen = 1281px to higher resolution desktops
 */
-@media (min-width: 1281px) {
+@media (min-width: 1600px) {
   table {
     width: 1400px;
+  }
+}
+@media (min-width: 1281px) and (max-width: 1600px) {
+  table {
+    width: 1200px;
   }
 }
 
@@ -19,6 +24,9 @@
 */
 
 @media (min-width: 1025px) and (max-width: 1280px) {
+  table {
+    width: 900px;
+  }
 }
 
 /* 
@@ -27,6 +35,20 @@
 */
 
 @media (min-width: 768px) and (max-width: 1024px) {
+  table {
+    width: 700px;
+  }
+  thead,
+  tbody {
+    font-size: 24px !important;
+  }
+  #trans-mode-btn,
+  #bigger-text-btn,
+  #go-top-btn {
+    width: 120px;
+    height: 120px;
+    font-size: 25px;
+  }
 }
 
 /* 
@@ -35,6 +57,16 @@
 */
 
 @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  table {
+    width: 700px;
+  }
+  #trans-mode-btn,
+  #bigger-text-btn,
+  #go-top-btn {
+    width: 120px;
+    height: 120px;
+    font-size: 24px;
+  }
 }
 
 /* 
@@ -43,6 +75,23 @@
 */
 
 @media (min-width: 481px) and (max-width: 767px) {
+  * {
+    font-size: 16px;
+  }
+  thead,
+  tbody {
+    font-size: 20px !important;
+  }
+  table {
+    width: 400px;
+  }
+  #trans-mode-btn,
+  #bigger-text-btn,
+  #go-top-btn {
+    width: 90px;
+    height: 90px;
+    font-size: 22px;
+  }
 }
 
 /* 
@@ -51,6 +100,23 @@
 */
 
 @media (min-width: 320px) and (max-width: 480px) {
+  * {
+    font-size: 14px;
+  }
+  table {
+    width: 200px;
+  }
+  #trans-mode-btn,
+  #bigger-text-btn,
+  #go-top-btn {
+    width: 80px;
+    height: 80px;
+    font-size: 19px;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 * {
@@ -63,7 +129,7 @@
 
 .container {
   position: relative;
-  width: device-width;
+  width: 100%;
 }
 
 table {
@@ -76,9 +142,14 @@ table caption {
   font: bolder 3em "Open Sans", sans-serif;
 }
 
+table thead {
+  position: sticky;
+  top: 5%;
+}
+
 table thead,
 table tbody {
-  font-size: 32px;
+  font-size: 2em;
 }
 
 table tr {
@@ -99,6 +170,7 @@ table thead tr th:first-child {
 table thead tr th:last-child {
   border-top-right-radius: 30px;
   border: none;
+  font-style: italic;
 }
 
 table tbody tr td:not(:last-of-type) {
@@ -107,6 +179,7 @@ table tbody tr td:not(:last-of-type) {
 
 table tbody tr td:last-of-type {
   padding-left: 2%;
+  font-style: italic;
 }
 
 /*
@@ -129,16 +202,56 @@ table tbody .odd {
   background-color: rgb(241, 241, 241);
 }
 
-#trans-mode-btn {
+/* 오류 발생 부분 */
+
+button {
+  width: 150px;
+  height: 150px;
+  font-size: 2em;
+}
+
+#trans-mode-btn,
+#bigger-text-btn,
+#go-top-btn {
   position: fixed;
-  right: 2%;
-  bottom: 14%;
   border: none;
   border-radius: 20px;
-  background-color: black;
   color: white;
-  font-size: 2em;
   font-weight: bold;
-  padding: 1% 2%;
-  margin: 1% 0 0 1%;
+  text-align: center;
+}
+
+#trans-mode-btn {
+  right: 2%;
+  bottom: 31%;
+  background-color: rgb(65, 65, 65);
+}
+
+#bigger-text-btn {
+  right: 2%;
+  bottom: 18%;
+  background-color: rgb(181, 190, 240);
+  color: black;
+}
+
+#bigger-text-btn[class="bigger"]:hover {
+  font-size: 2.5em;
+  transition: all 0.5s ease;
+}
+
+#bigger-text-btn[class=""]:hover {
+  font-size: 1.8em;
+  transition: all 0.5s ease;
+}
+
+#go-top-btn {
+  right: 2%;
+  bottom: 5%;
+  background-color: black;
+}
+
+#go-top-btn:hover {
+  background-color: rgb(216, 216, 216);
+  color: black;
+  transition: all 0.5s ease;
 }
