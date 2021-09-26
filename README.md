@@ -50,6 +50,7 @@
 
 ### 🎮 JavaScript
 
+🖤 [2021-09-25 / 자바스크립트 기본](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-09-25-자바스크립트-기본.md)
 <br/>
 <br/>
 
