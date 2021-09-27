@@ -52,7 +52,8 @@
 ### 🎮 JavaScript
 
 🖤 [2021-09-25 / 자바스크립트 기본](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-09-25-자바스크립트-기본.md)  
-🖤 [2021-09-26 / 자바스크립트 문법 1부](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-09-26-자바스크립트-문법-1부.md)
+🖤 [2021-09-26 / 자바스크립트 문법 1부](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-09-26-자바스크립트-문법-1부.md)  
+🖤 [2021-09-27 / 자바스크립트 문법 2부 (깃허브 오류로 작업 불가, 임시 업로드)](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-09-27-자바스크립트-문법-2부.md)
 
 <br/>
 <br/>
