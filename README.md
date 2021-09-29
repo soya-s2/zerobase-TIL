@@ -54,7 +54,9 @@
 🖤 [2021-09-25 / 자바스크립트 기본](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-09-25-자바스크립트-기본.md)  
 🖤 [2021-09-26 / 자바스크립트 문법 1부](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-09-26-자바스크립트-문법-1부.md)  
 🖤 [2021-09-27 / 자바스크립트 문법 2부](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-09-27-자바스크립트-문법-2부.md)  
-🖤 [2021-09-28 / 자바스크립트 문법 3부](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-09-28-자바스크립트-문법-3부.md)
+🖤 [2021-09-28 / 자바스크립트 문법 3부](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-09-28-자바스크립트-문법-3부.md)  
+💙 [2021-09-28 / 코딩테스트 문제풀이 작성 규칙](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-09-28-코딩테스트-문제풀이-작성-규칙.md)  
+💛 [2021-09-29 / 코딩테스트 기초문제 풀이](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-09-29-코딩테스트-기초문제-풀이.md)
 
 <br/>
 <br/>
