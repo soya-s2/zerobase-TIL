@@ -59,7 +59,8 @@
 💛 [2021-09-29 / 코딩테스트 기초문제 풀이](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-09-29-코딩테스트-기초문제-풀이.md)  
 🖤 [2021-09-30 / 수학 기본](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-09-30-수학-기본.md)  
 🖤 [2021-10-01 / 수학 실전문제풀이 1](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-10-01-수학-실전문제풀이-1.md)  
-🖤 [2021-10-01 / 수학 실전문제풀이 2](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-10-01-수학-실전문제풀이-2.md)
+🖤 [2021-10-01 / 수학 실전문제풀이 2](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-10-01-수학-실전문제풀이-2.md)  
+🖤 [2021-10-02 / 선형 자료구조 - 배열](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-10-02-선형-자료구조-배열.md)
 
 <br/>
 <br/>
