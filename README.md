@@ -62,7 +62,8 @@
 🖤 [2021-10-01 / 수학 실전문제풀이 2](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-10-01-수학-실전문제풀이-2.md)  
 🖤 [2021-10-02 / 선형 자료구조 - 배열](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-10-02-선형-자료구조-배열.md)  
 🖤 [2021-10-03 / 프로토타입](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-10-03-프로토타입.md)  
-🖤 [2021-10-04 / 연결 리스트, 이중 연결 리스트, 원형 연결 리스트](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-10-04-연결-리스트.md)
+🖤 [2021-10-04 / 연결 리스트, 이중 연결 리스트, 원형 연결 리스트](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-10-04-연결-리스트.md)  
+🖤 [2021-10-05 / 연결 리스트 문제풀이](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-10-05-연결-리스트-문제풀이.md)
 
 <br/>
 <br/>
