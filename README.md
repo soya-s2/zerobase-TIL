@@ -65,6 +65,7 @@
 🖤 [2021-10-04 / 연결 리스트, 이중 연결 리스트, 원형 연결 리스트](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-10-04-연결-리스트.md)  
 🖤 [2021-10-05 / 연결 리스트 문제풀이](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-10-05-연결-리스트-문제풀이.md)  
 🖤 [2021-10-06 / 스택](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-10-06-스택.md)  
+🖤 [2021-10-07 / 큐](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-10-07-큐.md)  
 <br/>
 <br/>
 
