@@ -66,6 +66,7 @@
 🖤 [2021-10-05 / 연결 리스트 문제풀이](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-10-05-연결-리스트-문제풀이.md)  
 🖤 [2021-10-06 / 스택](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-10-06-스택.md)  
 🖤 [2021-10-07 / 큐](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-10-07-큐.md)  
+🖤 [2021-10-08 / 우선순위 큐, 원형 큐, 데크](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-10-08-우선순위-큐-원형-큐-데크.md)  
 <br/>
 <br/>
 
