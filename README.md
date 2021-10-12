@@ -69,6 +69,8 @@
 🖤 [2021-10-08 / 우선순위 큐, 원형 큐, 데크](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-10-08-우선순위-큐-원형-큐-데크.md)  
 🖤 [2021-10-09, 2021-10-10 / 큐, 데크 문제풀이](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-10-09+10-10-큐-데크-문제풀이.md)  
 🖤 [2021-10-11 / 딕셔너리](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-10-11-딕셔너리.md)  
+🖤 [2021-10-12 / 해시 테이블](https://github.com/soya-s2/zerobase-TIL/blob/master/javascript/2021-10-12-해시-테이블.md)
+
 <br/>
 <br/>
 
